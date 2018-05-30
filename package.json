@@ -33,14 +33,13 @@
         "rimraf": "^2.6.2",
         "style-loader": "^0.21.0",
         "url-loader": "^1.0.1",
-        "webpack": "^4.10.1",
-        "webpack-cli": "^2.1.4",
-        "webpack-dev-server": "^3.1.4"
+        "webpack": "3.8.1",
+        "webpack-dev-server": "2.9.4"
     },
     "dependencies": {
         "babel-polyfill": "^6.26.0",
-        "react": "^16.4.0",
-        "react-dom": "^16.4.0",
+        "react": "^16.3.1",
+        "react-dom": "^16.3.1",
         "react-router-dom": "^4.2.2"
     }
 }
